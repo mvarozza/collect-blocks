@@ -1,0 +1,9 @@
+# If your project has any requirements not included in anaconda, include them here
+
+# in order to run my project, you will need to install and import the following
+
+install pygame
+
+import pygame
+import time
+import random
